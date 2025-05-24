@@ -1,4 +1,4 @@
-/ Copyright (c) 2025 Adrina Peighambarzadeh All rights reserved
+// Copyright (c) 2025 Adrina Peighambarzadeh All rights reserved
 //
 // Created by: Adrina Peighambarzadeh
 // Created on: May 2025
