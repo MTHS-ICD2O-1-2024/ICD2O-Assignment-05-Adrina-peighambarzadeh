@@ -4,6 +4,8 @@
 // Created on: May 2025
 // This file contains the JS functions for index.html
 
+  'use strict'
+  
 /**
  * This function calculates the factorial of a number
  */
